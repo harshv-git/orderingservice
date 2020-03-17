@@ -1,0 +1,14 @@
+{
+  "items" : [
+    {
+      "name" : "Veg burger",
+      "price" : 50,
+      "etc" : 1
+    },
+    {
+      "name" : "Chicken burger",
+      "price" : 80,
+      "etc" : 2
+    }
+  ]
+}
